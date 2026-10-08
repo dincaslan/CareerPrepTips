@@ -1,5 +1,5 @@
 The materials I prepared during/for the program discussions with fantastic organizing committee of the event for the career session in ESCS2026.
-(P.s. These were draft ideas, not used in the event.)
+(P.s. These were draft ppts, not used in the event.)
 
 The ideas mainly shaped during the discussions with our program preparation sessions with the program committee (https://iscbsc.org/escs2026/):
 - Pradeep Eranti
