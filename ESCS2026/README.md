@@ -10,4 +10,4 @@ The ideas mainly shaped during the discussions with our program preparation sess
 - Estefania Torrejón
 - Elisabeth Hellec
 
-I am particulary grateful continuos thought-provoking discussions of Paula,Pradeep and Victor for the program ideas.
+I am particulary grateful continuos thought-provoking discussions of Paula, Pradeep and Victor for these ideas.
