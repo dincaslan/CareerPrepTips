@@ -23,7 +23,6 @@ https://zenodo.org/records/13944173/
 * Academia to Industry: https://capd.mit.edu/resources/toolkit-how-to-transition-from-academia-to-industry
 * Academia vs. Industry limbo prep: https://www.nature.com/articles/s41562-024-01864-1
 * Digital visibility as a concept: https://www.tandfonline.com/doi/full/10.1080/08911762.2025.2554430#abstract
-* Tehnical blogging: https://blog.stephenturner.us/p/technical-blogging
 * Technical blogging and visibility: https://blog.stephenturner.us/p/technical-blogging 
 * Online visibility might simply increase the impact, https://www.degruyterbrill.com/publishing/for-authors/tools-resources/how-to-promote-your-work-on-social-media 
 * Online visibility  basics: https://www.essex.ac.uk/blog/posts/2023/12/08/building-your-visibility-profile-and-networks-as-a-researcher-on-social-media 
